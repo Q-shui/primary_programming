@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\C++\初级程序设计\1_test_10_11\1_test_10_11\test.cpp(32): warning C4715: “MaxCommonDivisor”: 不是所有的控件路径都返回值
+  1_test_10_11.vcxproj -> E:\C++\初级程序设计\1_test_10_11\Debug\1_test_10_11.exe
