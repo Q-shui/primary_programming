@@ -1,0 +1,8 @@
+﻿  test.cpp
+E:\C++\初级程序设计\3_test_10_25\3_test_10_25\test.cpp(108,21): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 122 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  3_test_10_25.vcxproj -> E:\C++\初级程序设计\3_test_10_25\Release\3_test_10_25.exe
